@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Guide Selection Portal",
+    "desc": "Automated guide allocation system for IT department",
+    "tech": ["React", "Node", "MongoDB"],
+    "github": "https://third-yr-gsp.vercel.app/"
+  },
+  {
+    "title": "Buddy System",
+    "desc": "Mentor–mentee platform for students",
+    "tech": ["React", "MongoDB"],
+    "github": "https://github.com/Vivek07022006/ITDeptBDS.git"
+  }
+]
